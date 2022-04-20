@@ -1,0 +1,13 @@
+{
+    "name": "Big Peen",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Big Peen",
+        "/category/asset_value_tracking/core-token/symbol": "Peen",
+        "/category/asset_value_tracking/core-token/decimals": "10",
+        "/category/asset_value_tracking/core-token/supply": "1000000000000"
+    }
+}
